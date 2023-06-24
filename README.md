@@ -3,7 +3,7 @@ This is an Industrial Engineering graduate student case study and project suppor
 With a purpose to minimize the investment and transportation costs by finding the optimal number of hubs and plants (biorefineries) that the company needs to install as well as the network between suppliers-hubs and hubs-plants.
 Using Python and its Linear Programming modeler (PuLP) for data analysis and optimization, as well as Tableau for data visualization to provide optimal results and suggest recommendations.
 
-<img width="607" alt="Proposed Network" src="https://github.com/pchibu/Texas-Biofuel-Supply-Network-Optimization/assets/36771683/efd333f8-133d-4768-abfc-08d8fce0f462">
+<img width="1800" alt="Proposed Network" src="https://github.com/pchibu/Texas-Biofuel-Supply-Network-Optimization/assets/36771683/efd333f8-133d-4768-abfc-08d8fce0f462">
 
 
 
